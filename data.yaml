@@ -1,0 +1,5 @@
+path: C:/Users/adith/Downloads/drone_dataset
+train: C:/Users/adith/Downloads/drone_dataset/train
+val: C:/Users/adith/Downloads/drone_dataset/valid
+nc: 1
+names: ['drone']
